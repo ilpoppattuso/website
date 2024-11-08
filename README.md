@@ -33,7 +33,7 @@ Some of the main features of Lexio.me include:
 
 git clone https://github.com/ilpoppattuso/website.git
 
-cd lexio.me
+cd website
 
 #### Launch the project: Open index.html in your preferred browser to view the site.
 
