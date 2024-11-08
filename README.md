@@ -20,13 +20,13 @@ Some of the main features of Lexio.me include:
 ## Installation and Usage
 ### To view the project locally:
 
-Clone the repository:
+#### Clone the repository:
 
-bash
-Copia codice
 git clone https://github.com/yourusername/lexio.me.git
+
 cd lexio.me
-Launch the project: Open index.html in your preferred browser to view the site.
+
+#### Launch the project: Open index.html in your preferred browser to view the site.
 
 ## Contributing
 Contributions are welcome! Feel free to open a pull request or create an issue to suggest improvements or report bugs.
