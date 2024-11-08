@@ -32,4 +32,4 @@ cd lexio.me
 Contributions are welcome! Feel free to open a pull request or create an issue to suggest improvements or report bugs.
 
 ## License
-This project is shared under the MIT 2 license, providing an open but respectful approach to sharing code.
+This project is shared under the GNU General Public License v3.0, providing an open but respectful approach to sharing code.
