@@ -22,7 +22,7 @@ Some of the main features of Lexio.me include:
 
 #### Clone the repository:
 
-git clone https://github.com/yourusername/lexio.me.git
+git clone https://github.com/ilpoppattuso/website.git
 
 cd lexio.me
 
